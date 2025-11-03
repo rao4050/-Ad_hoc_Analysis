@@ -62,7 +62,7 @@ This project demonstrates how I used SQL to transform raw data into **insights t
 ## 🧮 **Tools & Technologies**
 
 - **SQL** – Data extraction, cleaning, and analysis  
-- **Power BI (Optional)** – For visualization (if used)  
+- **Power BI (Optional)** – For visualization  
 - **Excel** – Exploratory analysis and documentation  
 - **GitHub** – Version control & portfolio showcase  
 
